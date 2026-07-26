@@ -1,0 +1,656 @@
+[
+  {
+    "slug": "aluminium-angle",
+    "name": { "ka": "მაგალითი", "en": "Aluminium Angle" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "aluminium",
+    "inStock": true,
+    "images": [
+      "/images/products/aluminium-angle/main.jpg",
+      "/images/products/aluminium-angle/alt-1.jpg",
+      "/images/products/aluminium-angle/alt-2.jpg"
+    ]
+  },
+
+  {
+    "slug": "aluminium-flat-bar",
+    "name": { "ka": "მაგალითი", "en": "Aluminium Flat Bar" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "aluminium",
+    "inStock": true,
+    "images": [
+      "/images/products/aluminium-flat-bar/main.jpg",
+      "/images/products/aluminium-flat-bar/alt-1.jpg",
+      "/images/products/aluminium-flat-bar/alt-2.jpg",
+      "/images/products/aluminium-flat-bar/alt-3.jpg"
+    ]
+  },
+
+  {
+    "slug": "aluminium-rod",
+    "name": { "ka": "მაგალითი", "en": "Aluminium Rod" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "aluminium",
+    "inStock": true,
+    "images": [
+      "/images/products/aluminium-rod/main.jpg",
+      "/images/products/aluminium-rod/alt-1.jpg",
+      "/images/products/aluminium-rod/alt-2.jpg",
+      "/images/products/aluminium-rod/alt-3.jpg",
+      "/images/products/aluminium-rod/alt-4.jpg"
+    ]
+  },
+
+  {
+    "slug": "aluminium-round-tube",
+    "name": { "ka": "მაგალითი", "en": "Aluminium Round Tube" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "aluminium",
+    "inStock": true,
+    "images": [
+      "/images/products/aluminium-round-tube/main.jpg",
+      "/images/products/aluminium-round-tube/alt-1.jpg",
+      "/images/products/aluminium-round-tube/alt-2.jpg",
+      "/images/products/aluminium-round-tube/alt-3.jpg",
+      "/images/products/aluminium-round-tube/alt-4.jpg",
+      "/images/products/aluminium-round-tube/alt-5.jpg",
+      "/images/products/aluminium-round-tube/alt-6.jpg"
+    ]
+  },
+
+  {
+    "slug": "aluminium-sheet",
+    "name": { "ka": "მაგალითი", "en": "Aluminium Sheet" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "aluminium",
+    "inStock": true,
+    "images": [
+      "/images/products/aluminium-sheet/main.jpg",
+      "/images/products/aluminium-sheet/alt-1.jpg",
+      "/images/products/aluminium-sheet/alt-2.jpg",
+      "/images/products/aluminium-sheet/alt-3.jpg",
+      "/images/products/aluminium-sheet/alt-4.jpg",
+      "/images/products/aluminium-sheet/alt-5.jpg",
+      "/images/products/aluminium-sheet/alt-6.jpg",
+      "/images/products/aluminium-sheet/alt-7.jpg"
+    ]
+  },
+
+  {
+    "slug": "brass-angle",
+    "name": { "ka": "მაგალითი", "en": "Brass Angle" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "brass",
+    "inStock": true,
+    "images": [
+      "/images/products/brass-angle/main.jpg",
+      "/images/products/brass-angle/alt-1.jpg"
+    ]
+  },
+
+  {
+    "slug": "brass-flat-bar",
+    "name": { "ka": "მაგალითი", "en": "Brass Flat Bar" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "brass",
+    "inStock": true,
+    "images": [
+      "/images/products/brass-flat-bar/main.jpg",
+      "/images/products/brass-flat-bar/alt-1.jpg",
+      "/images/products/brass-flat-bar/alt-2.jpg"
+    ]
+  },
+
+  {
+    "slug": "brass-rod",
+    "name": { "ka": "მაგალითი", "en": "Brass Rod" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "brass",
+    "inStock": true,
+    "images": [
+      "/images/products/brass-rod/main.jpg",
+      "/images/products/brass-rod/alt-1.jpg",
+      "/images/products/brass-rod/alt-2.jpg",
+      "/images/products/brass-rod/alt-3.jpg",
+      "/images/products/brass-rod/alt-4.jpg",
+      "/images/products/brass-rod/alt-5.jpg"
+    ]
+  },
+
+  {
+    "slug": "brass-rod-hexagonal",
+    "name": { "ka": "მაგალითი", "en": "Brass Rod Hexagonal" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "brass",
+    "inStock": true,
+    "images": [
+      "/images/products/brass-rod-hexagonal/main.jpg",
+      "/images/products/brass-rod-hexagonal/alt-1.jpg",
+      "/images/products/brass-rod-hexagonal/alt-2.jpg"
+    ]
+  },
+
+  {
+    "slug": "brass-sheet",
+    "name": { "ka": "მაგალითი", "en": "Brass Sheet" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "brass",
+    "inStock": true,
+    "images": [
+      "/images/products/brass-sheet/main.jpg",
+      "/images/products/brass-sheet/alt-1.jpg",
+      "/images/products/brass-sheet/alt-2.jpg",
+      "/images/products/brass-sheet/alt-3.jpg",
+      "/images/products/brass-sheet/alt-4.jpg",
+      "/images/products/brass-sheet/alt-5.jpg",
+      "/images/products/brass-sheet/alt-6.jpg"
+    ]
+  },
+
+  {
+    "slug": "brass-wire",
+    "name": { "ka": "მაგალითი", "en": "Brass Wire" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "brass",
+    "inStock": true,
+    "images": [
+      "/images/products/brass-wire/main.jpg",
+      "/images/products/brass-wire/alt-1.jpg",
+      "/images/products/brass-wire/alt-2.jpg"
+    ]
+  },
+
+  {
+    "slug": "capralon",
+    "name": { "ka": "მაგალითი", "en": "Capralon" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "misc",
+    "inStock": true,
+    "images": [
+      "/images/products/capralon/main.jpg",
+      "/images/products/capralon/alt-1.jpg",
+      "/images/products/capralon/alt-2.jpg",
+      "/images/products/capralon/alt-3.jpg",
+      "/images/products/capralon/alt-4.jpg",
+      "/images/products/capralon/alt-5.jpg"
+    ]
+  },
+
+  {
+    "slug": "conveyor-belt",
+    "name": { "ka": "მაგალითი", "en": "Conveyor Belt" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "misc",
+    "inStock": true,
+    "images": [
+      "/images/products/conveyor-belt/main.jpg",
+      "/images/products/conveyor-belt/alt-1.jpg",
+      "/images/products/conveyor-belt/alt-2.jpg",
+      "/images/products/conveyor-belt/alt-3.jpg",
+      "/images/products/conveyor-belt/alt-4.jpg",
+      "/images/products/conveyor-belt/alt-5.jpg",
+      "/images/products/conveyor-belt/alt-6.jpg",
+      "/images/products/conveyor-belt/alt-7.jpg",
+      "/images/products/conveyor-belt/alt-8.jpg",
+      "/images/products/conveyor-belt/alt-9.jpg"
+    ]
+  },
+
+  {
+    "slug": "copper-flat-bar",
+    "name": { "ka": "მაგალითი", "en": "Copper Flat Bar" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "copper",
+    "inStock": true,
+    "images": [
+      "/images/products/copper-flat-bar/main.jpg",
+      "/images/products/copper-flat-bar/alt-1.jpg",
+      "/images/products/copper-flat-bar/alt-2.jpg",
+      "/images/products/copper-flat-bar/alt-3.jpg",
+      "/images/products/copper-flat-bar/alt-4.jpg",
+      "/images/products/copper-flat-bar/alt-5.jpg"
+    ]
+  },
+
+  {
+    "slug": "copper-sheet",
+    "name": { "ka": "მაგალითი", "en": "Copper Sheet" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "copper",
+    "inStock": true,
+    "images": [
+      "/images/products/copper-sheet/main.jpg",
+      "/images/products/copper-sheet/alt-1.jpg",
+      "/images/products/copper-sheet/alt-2.jpg",
+      "/images/products/copper-sheet/alt-3.jpg"
+    ]
+  },
+
+  {
+    "slug": "copperbond-ground-rod",
+    "name": { "ka": "მაგალითი", "en": "Copperbond Ground Rod" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "copper",
+    "inStock": true,
+    "images": [
+      "/images/products/copperbond-ground-rod/main.jpg",
+      "/images/products/copperbond-ground-rod/alt-1.jpg",
+      "/images/products/copperbond-ground-rod/alt-2.jpg"
+    ]
+  },
+
+  {
+    "slug": "fireproof-fiber-glass",
+    "name": { "ka": "მაგალითი", "en": "Fireproof Fiber Glass" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "misc",
+    "inStock": true,
+    "images": [
+      "/images/products/fireproof-fiber-glass/main.jpg",
+      "/images/products/fireproof-fiber-glass/alt-1.jpg"
+    ]
+  },
+
+  {
+    "slug": "graphite-packing",
+    "name": { "ka": "მაგალითი", "en": "Graphite Packing" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "misc",
+    "inStock": true,
+    "images": [
+      "/images/products/graphite-packing/main.jpg",
+      "/images/products/graphite-packing/alt-1.jpg"
+    ]
+  },
+
+  {
+    "slug": "organic-glass",
+    "name": { "ka": "მაგალითი", "en": "Organic Glass" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "misc",
+    "inStock": true,
+    "images": [
+      "/images/products/organic-glass/main.jpg",
+      "/images/products/organic-glass/alt-1.jpg",
+      "/images/products/organic-glass/alt-2.jpg",
+      "/images/products/organic-glass/alt-3.jpg",
+      "/images/products/organic-glass/alt-4.jpg"
+    ]
+  },
+
+  {
+    "slug": "paronite-sheet",
+    "name": { "ka": "მაგალითი", "en": "Paronite Sheet" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "misc",
+    "inStock": true,
+    "images": [
+      "/images/products/paronite-sheet/main.jpg",
+      "/images/products/paronite-sheet/alt-1.jpg",
+      "/images/products/paronite-sheet/alt-2.jpg",
+      "/images/products/paronite-sheet/alt-3.jpg",
+      "/images/products/paronite-sheet/alt-4.jpg",
+      "/images/products/paronite-sheet/alt-5.jpg",
+      "/images/products/paronite-sheet/alt-6.jpg"
+    ]
+  },
+
+  {
+    "slug": "polyamide",
+    "name": { "ka": "მაგალითი", "en": "Polyamide" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "misc",
+    "inStock": true,
+    "images": [
+      "/images/products/polyamide/main.jpg",
+      "/images/products/polyamide/alt-1.jpg"
+    ]
+  },
+
+  {
+    "slug": "polyurethane",
+    "name": { "ka": "მაგალითი", "en": "Polyurethane" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "misc",
+    "inStock": true,
+    "images": [
+      "/images/products/polyurethane/main.jpg",
+      "/images/products/polyurethane/alt-1.jpg",
+      "/images/products/polyurethane/alt-2.jpg",
+      "/images/products/polyurethane/alt-3.jpg",
+      "/images/products/polyurethane/alt-4.jpg",
+      "/images/products/polyurethane/alt-5.jpg",
+      "/images/products/polyurethane/alt-6.jpg",
+      "/images/products/polyurethane/alt-7.jpg"
+    ]
+  },
+
+  {
+    "slug": "rubber",
+    "name": { "ka": "მაგალითი", "en": "Rubber" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "misc",
+    "inStock": true,
+    "images": [
+      "/images/products/rubber/main.jpg",
+      "/images/products/rubber/alt-1.jpg"
+    ]
+  },
+
+  {
+    "slug": "silicon-rubber",
+    "name": { "ka": "მაგალითი", "en": "Silicon Rubber" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "misc",
+    "inStock": true,
+    "images": [
+      "/images/products/silicon-rubber/main.jpg",
+      "/images/products/silicon-rubber/alt-1.jpg",
+      "/images/products/silicon-rubber/alt-2.jpg",
+      "/images/products/silicon-rubber/alt-3.jpg",
+      "/images/products/silicon-rubber/alt-4.jpg"
+    ]
+  },
+
+  {
+    "slug": "stainless-steel-angle",
+    "name": { "ka": "მაგალითი", "en": "Stainless Steel Angle" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "stainless-steel",
+    "inStock": true,
+    "images": [
+      "/images/products/stainless-steel-angle/main.jpg",
+      "/images/products/stainless-steel-angle/alt-1.jpg",
+      "/images/products/stainless-steel-angle/alt-2.jpg"
+    ]
+  },
+
+  {
+    "slug": "stainless-steel-rod",
+    "name": { "ka": "მაგალითი", "en": "Stainless Steel Rod" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "stainless-steel",
+    "inStock": true,
+    "images": [
+      "/images/products/stainless-steel-rod/main.jpg",
+      "/images/products/stainless-steel-rod/alt-1.jpg",
+      "/images/products/stainless-steel-rod/alt-2.jpg",
+      "/images/products/stainless-steel-rod/alt-3.jpg",
+      "/images/products/stainless-steel-rod/alt-4.jpg"
+    ]
+  },
+
+  {
+    "slug": "stainless-steel-sheet",
+    "name": { "ka": "მაგალითი", "en": "Stainless Steel Sheet" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "stainless-steel",
+    "inStock": true,
+    "images": [
+      "/images/products/stainless-steel-sheet/main.jpg",
+      "/images/products/stainless-steel-sheet/alt-1.jpg",
+      "/images/products/stainless-steel-sheet/alt-2.jpg",
+      "/images/products/stainless-steel-sheet/alt-3.jpg",
+      "/images/products/stainless-steel-sheet/alt-4.jpg",
+      "/images/products/stainless-steel-sheet/alt-5.jpg",
+      "/images/products/stainless-steel-sheet/alt-6.jpg"
+    ]
+  },
+
+  {
+    "slug": "stainless-steel-square-tube",
+    "name": { "ka": "მაგალითი", "en": "Stainless Steel Square Tube" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "stainless-steel",
+    "inStock": true,
+    "images": [
+      "/images/products/stainless-steel-square-tube/main.jpg",
+      "/images/products/stainless-steel-square-tube/alt-1.jpg",
+      "/images/products/stainless-steel-square-tube/alt-2.jpg",
+      "/images/products/stainless-steel-square-tube/alt-3.jpg",
+      "/images/products/stainless-steel-square-tube/alt-4.jpg",
+      "/images/products/stainless-steel-square-tube/alt-5.jpg",
+      "/images/products/stainless-steel-square-tube/alt-6.jpg",
+      "/images/products/stainless-steel-square-tube/alt-7.jpg"
+    ]
+  },
+
+  {
+    "slug": "steel-sheet-perforated",
+    "name": { "ka": "მაგალითი", "en": "Perforated Steel Sheet" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "misc",
+    "inStock": true,
+    "images": [
+      "/images/products/steel-sheet-perforated/main.jpg",
+      "/images/products/steel-sheet-perforated/alt-1.jpg",
+      "/images/products/steel-sheet-perforated/alt-2.jpg",
+      "/images/products/steel-sheet-perforated/alt-3.jpg",
+      "/images/products/steel-sheet-perforated/alt-4.jpg",
+      "/images/products/steel-sheet-perforated/alt-5.jpg",
+      "/images/products/steel-sheet-perforated/alt-6.jpg",
+      "/images/products/steel-sheet-perforated/alt-7.jpg",
+      "/images/products/steel-sheet-perforated/alt-8.jpg"
+    ]
+  },
+
+  {
+    "slug": "technical-rubber-sheet",
+    "name": { "ka": "მაგალითი", "en": "Technical Rubber Sheet" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "misc",
+    "inStock": true,
+    "images": [
+      "/images/products/technical-rubber-sheet/main.jpg"
+    ]
+  },
+
+  {
+    "slug": "teflon-rod",
+    "name": { "ka": "მაგალითი", "en": "Teflon Rod" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "misc",
+    "inStock": true,
+    "images": [
+      "/images/products/teflon-rod/main.jpg",
+      "/images/products/teflon-rod/alt-1.jpg",
+      "/images/products/teflon-rod/alt-2.jpg",
+      "/images/products/teflon-rod/alt-4.jpg",
+      "/images/products/teflon-rod/alt-4.jpg"
+    ]
+  },
+
+  {
+    "slug": "textolite",
+    "name": { "ka": "მაგალითი", "en": "Textolite" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "misc",
+    "inStock": true,
+    "images": [
+      "/images/products/textolite/main.jpg",
+      "/images/products/textolite/alt-1.jpg",
+      "/images/products/textolite/alt-2.jpg"
+    ]
+  },
+
+  {
+    "slug": "wire-rope",
+    "name": { "ka": "მაგალითი", "en": "Wire Rope" },
+    "description": {
+      "ka": "აღწერა...",
+      "en": "Description..."
+    },
+    "price": 100000,
+    "currency": "GEL",
+    "category": "misc",
+    "inStock": true,
+    "images": [
+      "/images/products/wire-rope/main.jpg",
+      "/images/products/wire-rope/alt-1.jpg",
+      "/images/products/wire-rope/alt-2.jpg",
+      "/images/products/wire-rope/alt-3.jpg",
+      "/images/products/wire-rope/alt-4.jpg",
+      "/images/products/wire-rope/alt-5.jpg"
+    ]
+  }
+]

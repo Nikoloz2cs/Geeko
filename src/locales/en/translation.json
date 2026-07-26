@@ -1,0 +1,31 @@
+{
+  "footer": {
+    "address": "Address: Nadira Khosharauli Street (Eliava marketplace area)",
+    "hours": "Hours: Everyday, 9:00 - 17:30",
+    "contact": "Contact: +995 599 50 71 74"
+  },
+  "home": {
+    "title": "Our Products"
+  },
+  "catalog": {
+    "searchPlaceholder": "Search...",
+    "filterAll": "All materials",
+    "noResults": "No products found"
+  },
+  "product": {
+    "back": "Back to all products",
+    "price": "Price",
+    "category": "Material",
+    "inStock": "In stock",
+    "outOfStock": "Out of stock",
+    "notFound": "Product not found"
+  },
+  "categories": {
+    "aluminium": "Aluminium",
+    "brass": "Brass",
+    "copper": "Copper",
+    "stainless-steel": "Stainless Steel",
+    "rubber": "Rubber",
+    "misc": "Miscellaneous"
+  }
+}
