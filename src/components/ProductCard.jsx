@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
+import { assetPath } from '../utils/assetPath'
 
 export default function ProductCard({ product }) {
   const { i18n, t } = useTranslation()
@@ -12,7 +13,7 @@ export default function ProductCard({ product }) {
     >
       <div className="aspect-square w-full overflow-hidden bg-[var(--color-bg)]">
         <img
-          src={product.images?.[0]}
+          src={assetPath(product.images?.[0])}
           alt={product.name?.[lang]}
           loading="lazy"
           className="h-full w-full object-cover transition-transform duration-200 group-hover:scale-[1.03]"

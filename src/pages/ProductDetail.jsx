@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import products from '../data/products.json'
+import { assetPath } from '../utils/assetPath'
 
 export default function ProductDetail() {
   const { slug } = useParams()
@@ -32,7 +33,7 @@ export default function ProductDetail() {
         <div>
           <div className="aspect-square w-full overflow-hidden rounded-lg border border-[var(--color-border)] bg-[var(--color-surface)]">
             <img
-              src={product.images[activeImage]}
+              src={assetPath(product.images[activeImage])}
               alt={product.name[lang]}
               className="h-full w-full object-cover"
             />
@@ -48,7 +49,7 @@ export default function ProductDetail() {
                     i === activeImage ? 'border-accent' : 'border-[var(--color-border)]'
                   }`}
                 >
-                  <img src={img} alt="" className="h-full w-full object-cover" />
+                  <img src={assetPath(img)} alt="" className="h-full w-full object-cover" />
                 </button>
               ))}
             </div>
