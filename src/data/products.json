@@ -19,8 +19,8 @@
     "slug": "aluminium-flat-bar",
     "name": { "ka": "ალუმინის ზოლოვანა", "en": "Aluminium Flat Bar" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "aluminium",
     "inStock": true,
@@ -36,8 +36,8 @@
     "slug": "aluminium-rod",
     "name": { "ka": "ალუმინის სხმული", "en": "Aluminium Rod" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "aluminium",
     "inStock": true,
@@ -54,8 +54,8 @@
     "slug": "aluminium-round-tube",
     "name": { "ka": "ალუმინის მილი", "en": "Aluminium Pipe" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "aluminium",
     "inStock": true,
@@ -74,8 +74,8 @@
     "slug": "aluminium-sheet",
     "name": { "ka": "ალუმინის ფურცელი", "en": "Aluminium Sheet" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "aluminium",
     "inStock": true,
@@ -95,8 +95,8 @@
     "slug": "brass-angle",
     "name": { "ka": "ბრინჯაოს კუთხოვანა", "en": "Brass Angle" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "brass",
     "inStock": true,
@@ -110,8 +110,8 @@
     "slug": "brass-flat-bar",
     "name": { "ka": "ბრინჯაოს ზოლოვანა", "en": "Brass Flat Bar" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "brass",
     "inStock": true,
@@ -126,8 +126,8 @@
     "slug": "brass-rod",
     "name": { "ka": "ბრინჯაოს სხმული", "en": "Brass Rod" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "brass",
     "inStock": true,
@@ -145,8 +145,8 @@
     "slug": "brass-rod-hexagonal",
     "name": { "ka": "ბრინჯაოს ექვსკუთხა სხმული", "en": "Brass Rod Hexagonal" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "brass",
     "inStock": true,
@@ -161,8 +161,8 @@
     "slug": "brass-sheet",
     "name": { "ka": "თითბერის ფურცელი", "en": "Brass Sheet" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "brass",
     "inStock": true,
@@ -181,8 +181,8 @@
     "slug": "brass-wire",
     "name": { "ka": "ბრინჯაოს მავთული", "en": "Brass Wire" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "brass",
     "inStock": true,
@@ -197,8 +197,8 @@
     "slug": "capralon",
     "name": { "ka": "კაპრონის მასალები", "en": "Capralon" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "misc",
     "inStock": true,
@@ -216,8 +216,8 @@
     "slug": "conveyor-belt",
     "name": { "ka": "საკონვეიერო ლენტა", "en": "Conveyor Belt" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "misc",
     "inStock": true,
@@ -239,8 +239,8 @@
     "slug": "copper-flat-bar",
     "name": { "ka": "სპილენძის ზოლოვანა", "en": "Copper Flat Bar" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "copper",
     "inStock": true,
@@ -258,8 +258,8 @@
     "slug": "copper-sheet",
     "name": { "ka": "სპილენძის ფურცელი", "en": "Copper Sheet" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "copper",
     "inStock": true,
@@ -275,8 +275,8 @@
     "slug": "copperbond-ground-rod",
     "name": { "ka": "მოსპილენძებული დამიწების ღერო", "en": "Copperbond Ground Rod" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "copper",
     "inStock": true,
@@ -291,8 +291,8 @@
     "slug": "fireproof-fiberglass",
     "name": { "ka": "ცეცხლგამძლე ნაჭერი", "en": "Fireproof Fiber Glass" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "misc",
     "inStock": true,
@@ -306,8 +306,8 @@
     "slug": "graphite-packing",
     "name": { "ka": "ჩობალი ( 'ნაბივკა' )", "en": "Graphite Packing" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "misc",
     "inStock": true,
@@ -321,8 +321,8 @@
     "slug": "organic-glass",
     "name": { "ka": "ორგმინა", "en": "Organic Glass" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "misc",
     "inStock": true,
@@ -339,8 +339,8 @@
     "slug": "paronite-sheet",
     "name": { "ka": "პარანიტის ფურცელი", "en": "Paronite Sheet" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "misc",
     "inStock": true,
@@ -359,8 +359,8 @@
     "slug": "polyamide",
     "name": { "ka": "პოლიამიდი", "en": "Polyamide" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "misc",
     "inStock": true,
@@ -374,8 +374,8 @@
     "slug": "polyurethane",
     "name": { "ka": "პოლიურეთანი", "en": "Polyurethane" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "misc",
     "inStock": true,
@@ -395,8 +395,8 @@
     "slug": "rubber",
     "name": { "ka": "რეზინა კვების მრეწველობისთვის", "en": "Rubber" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "rubber",
     "inStock": true,
@@ -410,8 +410,8 @@
     "slug": "silicon-rubber",
     "name": { "ka": "სილიკონის რეზინი", "en": "Silicon Rubber" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "rubber",
     "inStock": true,
@@ -428,8 +428,8 @@
     "slug": "stainless-steel-angle",
     "name": { "ka": "უჟანგავი კუთხოვანა", "en": "Stainless Steel Angle" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "stainless-steel",
     "inStock": true,
@@ -444,8 +444,8 @@
     "slug": "stainless-steel-rod",
     "name": { "ka": "უჟანგავი სხმული", "en": "Stainless Steel Rod" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "stainless-steel",
     "inStock": true,
@@ -462,8 +462,8 @@
     "slug": "stainless-steel-sheet",
     "name": { "ka": "უჟანგავი ფურცელი", "en": "Stainless Steel Sheet" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "stainless-steel",
     "inStock": true,
@@ -482,8 +482,8 @@
     "slug": "stainless-steel-square-tube",
     "name": { "ka": "უჟანგავი მილკვადრატი", "en": "Stainless Steel Square Tube" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "stainless-steel",
     "inStock": true,
@@ -503,8 +503,8 @@
     "slug": "steel-sheet-perforated",
     "name": { "ka": "პერფორირებული რკინის ფურცელი", "en": "Perforated Steel Sheet" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "misc",
     "inStock": true,
@@ -525,8 +525,8 @@
     "slug": "technical-rubber-sheet",
     "name": { "ka": "ტექნიკური რეზინა", "en": "Technical Rubber Sheet" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "rubber",
     "inStock": true,
@@ -539,8 +539,8 @@
     "slug": "teflon-rod",
     "name": { "ka": "ფტოროპლასტი", "en": "Teflon Rod" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "misc",
     "inStock": true,
@@ -557,8 +557,8 @@
     "slug": "textolite",
     "name": { "ka": "ტექსტოლიტი", "en": "Textolite" },
     "description": {
-      "ka": "",
-      "en": ""
+      "ka": "დეტალებისთვის დაგვიკავშირდით",
+      "en": "For details, please contact us"
     },
     "category": "misc",
     "inStock": true,
