@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig(({ command, isPreview }) => ({
   plugins: [react(), tailwindcss()],
-  base: command === 'build' || isPreview ? '/Geeko/' : '/',
+  base: '/',
 }))
